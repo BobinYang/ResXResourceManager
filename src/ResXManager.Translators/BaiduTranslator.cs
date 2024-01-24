@@ -35,7 +35,10 @@
             { "zh-HK","cht"},
             { "zh-MO","cht"},
             { "zh-Hans","zh"},
-            { "zh-CN","zh"}
+            { "zh-CN","zh"},
+            { "vi-VN","vie"},
+            { "es-MX","spa"},
+
         };
         private static readonly IList<ICredentialItem> _credentialItems = new ICredentialItem[]
         {
